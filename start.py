@@ -13,7 +13,7 @@ lines = 120
 cols = 150
 distanza_caratteri = 8
 inverti_colori = False # (nero su bianco)
-backgroud = black # colore background (R, G, B)
+background = black # colore background (R, G, B)
 foreground = white # colore foreground (R, G, B)
 
 char_list = '$@BM#ZXzcft/|(}]?*-_+~<;:,"^\'`.    '
