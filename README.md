@@ -11,7 +11,7 @@
 ```sh
 - git clone https://github.com/lollobefera/Webcam-Ascii.git
 
-- cd /path
+- cd Webcam-Ascii
 
 - pip install -r requirements.txt
 ```
