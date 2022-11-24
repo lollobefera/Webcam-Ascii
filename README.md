@@ -21,3 +21,11 @@
 ```sh
 python start.py
 ```
+
+## Come funziona?
+questo script utilizza pygame per
+
+### Librerie
+* `OpenCV` - Per catturare li video dalla webcam
+* `numpy` - per gestire gli array
+* `pygame` - per visualizzare l'immagine
