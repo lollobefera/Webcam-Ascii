@@ -23,9 +23,9 @@ python start.py
 ```
 
 ## Come funziona?
-questo script utilizza pygame per
+Le immagini e i video sono delle matrici contenenti i valori RGB da 0 a 255 di ogni pixel (nel caso di OpenCV i valori sono BGR) quindi facendo la media di questi tre valori otteniamo l'intensita di un colore e con questa possiamo disegnare sullo schermo un preciso carattere, per esempio se l'intensità è vicina allo zero il carattere sarà " " e se invece è vicina a 255 sarà "#"
 
 ### Librerie
-* `OpenCV` - Per catturare li video dalla webcam
-* `numpy` - per gestire gli array
+* `OpenCV` - Per catturare il video dalla webcam
+* `numpy` - per gestire le matrici
 * `pygame` - per visualizzare l'immagine
